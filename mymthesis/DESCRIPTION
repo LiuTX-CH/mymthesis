@@ -1,0 +1,17 @@
+Package: mymthesis
+Title: Some functions used for doing data analysis in my master's thesis
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tianxiang",
+           family = "Liu",
+           role = c("aut", "cre"),
+           email = "ahchltx@163.com")
+Description: Some functions used for doing data analysis in my master's thesis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    dplyr,
+    psych
